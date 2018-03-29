@@ -1,0 +1,15 @@
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe.config
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.pdb
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.dll
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Owin.dll
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.xml
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csprojResolveAssemblyReference.cache
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csproj.CoreCompileInputs.cache
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csproj.CopyComplete
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.exe
+C:\Users\chriwong\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.pdb
